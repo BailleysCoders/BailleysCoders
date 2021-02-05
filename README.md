@@ -8,4 +8,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=BailleysCoders&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=BailleysCoders&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=BailleysCoders&repo=baileys-coders&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=BailleysCoders&repo=Baileys-coders&theme=dark)
