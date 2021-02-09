@@ -14,7 +14,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BailleysCoders">
 
 
-## PROJECTS
+## SKILLS
 </details>
 <!-- TODO: Make technologies links takes you to repositories -->
 
