@@ -19,6 +19,8 @@
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) ![Python Badge](https://img.shields.io/badge/-python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)![Javascript Badge](https://img.shields.io/badge/-php-F0DB4F?style=for-the-badge&labelColor=black&logo=php&logoColor=F0DB4F)
+
+<details>
   <summary><b>SUPPORT !!</b></summary>
   <p align="center">
     <i>Ayo Support Kami Dalam Pembuatan Bot!!!</i><br><br>
