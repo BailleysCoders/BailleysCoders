@@ -9,6 +9,11 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=BailleysCoders&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=BailleysCoders&layout=compact&theme=radical)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=BailleysCoders&repo=TERMOS-WABOT&theme=dark)
+## TROPHIES
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=BailleysCoders&row=3&column=3"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BailleysCoders">
+
+
 ## PROJECTS
 </details>
 <!-- TODO: Make technologies links takes you to repositories -->
