@@ -26,11 +26,9 @@
   <summary><b>SUPPORT !!</b></summary>
   <p align="center">
     <i>Ayo Support Kami Dalam Pembuatan Bot!!!</i><br><br>
-    <a href="https://twitter.com/BailleysCoders" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://fb.com/BailleysCoders" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-  <a href="https://fb.com/BailleysCoders" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://instagram.com/BailleysCoders" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
-
+    <a href="https://twitter.com/BailleysCoders" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+   <a href="https://instagram.com/BailleysCoders" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
+ <a href="https://gmail.com/BailleysCoders" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
 </details>
 
