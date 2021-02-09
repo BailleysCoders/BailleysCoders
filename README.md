@@ -13,6 +13,7 @@
 ## TROPHIES
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=BailleysCoders&row=3&column=3"/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BailleysCoders">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="60000px">
 
 
 ## SKILLS
