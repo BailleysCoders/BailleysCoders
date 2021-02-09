@@ -7,7 +7,7 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=BailleysCoders&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=BailleysCoders&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=BailleysCoders&layout=compact&theme=radical)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=BailleysCoders&repo=TERMOS-WABOT&theme=dark)
 #### PROJECTS
 
