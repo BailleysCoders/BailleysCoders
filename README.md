@@ -26,7 +26,7 @@
   <p align="center">
     <i>Ayo Support Kami Dalam Pembuatan Bot!!!</i><br><br>
     <a href="https://twitter.com/BailleysCoders" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-   <a href="https://instagram.com/BailleysCoders" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
+   <a href="https://instagram.com/vz.vinz12" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
  <a href="https://gmail.com/BailleysCoders" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
 </details>
